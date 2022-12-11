@@ -10,7 +10,7 @@ and then type localhost:3000 in browser
 to write blog type- localhost:3000/compose then enter to get the writing page
 and to see see the post type localhost:3000/posts/(your title)
 
-
+SEE THE URL LOCATION TO KNOW MORE ABOUT WEBSITE
 
 ![image](https://user-images.githubusercontent.com/100701424/206890316-b953ba2a-71c3-48e8-be4c-fec5dce45075.png)
 ![image](https://user-images.githubusercontent.com/100701424/206890367-cfcd2886-7070-4bda-8715-3ccb04dd135b.png)
